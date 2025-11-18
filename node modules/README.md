@@ -1,19 +1,19 @@
-# @babel/helper-validator-identifier
+# @babel/runtime
 
-> Validate identifier/keywords name
+> babel's modular runtime helpers
 
-See our website [@babel/helper-validator-identifier](https://babeljs.io/docs/babel-helper-validator-identifier) for more information.
+See our website [@babel/runtime](https://babeljs.io/docs/babel-runtime) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-validator-identifier
+npm install --save @babel/runtime
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-validator-identifier
+yarn add @babel/runtime
 ```
