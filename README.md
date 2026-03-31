@@ -56,7 +56,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cybershield-platform.git
+git clone https://github.com/KanupriyaPrachande/cybershield-platform.git
 cd cybershield-platform
 
 # Setup backend
