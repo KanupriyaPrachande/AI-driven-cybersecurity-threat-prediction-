@@ -1,4 +1,4 @@
-# AI-driven-cybersecurity-threat-prediction-
+# CyberSentinel- AI
 
 🛡️ CyberShield AI - ML-Powered Threat Detection Platform
 
